@@ -49,5 +49,4 @@ def check_phone(text):
     return False
 
 
-isphone = check_phone("0929231123")
-print(isphone)
+print(check_phone("0929201123"))
